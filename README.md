@@ -15,4 +15,4 @@
   
   ##
 
-  ![Snake animation](https://github.com/IsmaelBraz1/IsmaelBraz1/blob/output/github-contribution-grid-snake.svg)
+ 
